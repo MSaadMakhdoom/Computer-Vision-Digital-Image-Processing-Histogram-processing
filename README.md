@@ -28,7 +28,9 @@
 - Compute local mean and standard deviation using a square neighborhood
 - Compute enhanced image using the given formula
 ![Output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.02.32%20AM.png)
-
+##
+# Result
+![Output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.02.41%20AM.png)
 ## Find only the blue board that has text and arrow signs. The rest of the pixels in the image should be black
 
 - Read the image
