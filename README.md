@@ -5,7 +5,7 @@
 ## Solution
 ##  Enhance the image with Laplacian filters if they can find the hidden objects and show the results. Explain their success or failure. - Laplacian filters are used to enhance edges and detect edges in an image.
 # input image
-![Squares Image](data/squares.tif)
+![Squares Image](./data/squares.tif)
 
 - The Laplacian filter works by finding the second derivative of the image intensity function. 
 - It enhances areas of the image where the intensity changes quickly, such as edges or boundaries  
