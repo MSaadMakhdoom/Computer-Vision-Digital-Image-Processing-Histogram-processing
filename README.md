@@ -32,7 +32,8 @@
 # Result
 ![Output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.02.41%20AM.png)
 ## Find only the blue board that has text and arrow signs. The rest of the pixels in the image should be black
-
+# inputimage
+![input](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/data/road.jpg)
 - Read the image
 - Calculate the histogram
 - Draw the histogram
