@@ -59,7 +59,6 @@
 # result
 ![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.03.07%20AM.png)
 #
-![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.03.16%20AM.png)
 ## Write a program that should be able to find the background color of the sign board. It should be a generic function to identify three different primary colors: red, green or blue. It should display blue if the background color of the board is blue
 
 - initializes a variable named "blue_count" to 0.
@@ -78,6 +77,7 @@
 - Find the two peaks in the histogram
 - Apply thresholding to the image
 - Invert the thresholded image so that text and arrow signs are black
+![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.03.16%20AM.png)
 
 ## Problem 3
 - Convert image to grayscale if not already in grayscale
