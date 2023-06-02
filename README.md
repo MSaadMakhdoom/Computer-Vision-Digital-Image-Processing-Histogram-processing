@@ -19,8 +19,8 @@
 - Apply a Sobel filter to detect edges in both directions
 - Apply a Gaussian filter to smooth the image
 - Threshold the Laplacian and Sobel images to obtain binary images
-
-
+# Result
+! [Output](output/Screenshot%202023-06-03%20at%204.02.15%20AM.png)
 ## code that implements Mathematical formula enhance the image:
 - Compute global mean and standard deviation
 - Compute local mean and standard deviation using a square neighborhood
