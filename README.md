@@ -53,7 +53,8 @@
 - Add the black image to the list
 - Combine all the black images using bitwise OR operation
 - Mask the original image with the black image to make the rest of the pixels␣
-
+# preprocessing image
+![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.02.58%20AM.png)
 
 ## Write a program that should be able to find the background color of the sign board. It should be a generic function to identify three different primary colors: red, green or blue. It should display blue if the background color of the board is blue
 
