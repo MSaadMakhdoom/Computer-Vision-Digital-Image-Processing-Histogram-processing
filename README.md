@@ -80,21 +80,31 @@
 ![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.03.16%20AM.png)
 
 ## Problem 3
-- Convert image to grayscale if not already in grayscale
-- Calculate gradient magnitude and direction
-- Define threshold for angle
-- Define kernels for different orientations
-- Filter image with kernel and angle threshold
-- Threshold the image to convert it to black and white
+Write a function that takes two images as input and display “Similar” if two images are similar
+otherwise display “Different”.
+#
+![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.04.45%20AM.png)
 
-#### Find percentage of the area covered by the hexagon and display it.
-
-- Create a histogram of the pixel intensities
-- Plot the histogram as a bar graph
-- Add labels to the plot
+## Problem 4
+# part a. Apply a global threshold on the above images and see the output. Probably it will fail. Explain your reasons for failure of the global thresholding.
 
 
+![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.04.59%20AM.png)
 
+## part b Local Thresholding: In local thresholding we will select a small window and then apply a thresholding with respect to that small window. You can try implement your own custom function for the following technique to see if local thresholding will work.
+![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.05.08%20AM.png)
+
+## part c In OpenCV Adaptive Thresholding is provided. Undersand the working of Adaptive Thresholding. You can try adaptive thresholding and display your results. Compare and comment on the results obtained for your method, adaptive method and global thresholding method. Which seems more suitable for the above images.
+![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.05.47%20AM.png)
+
+## problem 5
+## input image
+![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/data/fundus.jpg)
+A normal fundus image of human eye is shown in figure 5. Perform the following tasks:
+# a. Separate the veins in the eye and display them (rest of the pixels in black veins in white)
+# b. Find the diameter of the eye ball (shown with arrow) in terms of pixels and display it.
+
+![output](https://github.com/MSaadMakhdoom/Digital-Image-Processing-Histogram-matching/blob/main/output/Screenshot%202023-06-03%20at%204.05.57%20AM.png)
 
 
 
